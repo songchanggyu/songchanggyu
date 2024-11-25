@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 | 사과 | 사과맛 |
 | 바나나 | 바나나맛 |
 | 망고 | 망고맛|
+
+- [x] 밥 먹기
+- [] 운동하기
