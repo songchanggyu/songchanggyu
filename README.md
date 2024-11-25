@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 
 - [x] 밥 먹기
 - [] 운동하기
+- [x] 게임하기
